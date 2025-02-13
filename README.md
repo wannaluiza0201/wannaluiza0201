@@ -3,7 +3,7 @@
 - 💻 Desenvolvedora Web Fullstack 
 - 🚀 Criando projetos inovadores e compartilhando conhecimento 
 - 🔧 Atuando com APIs em Laravel e experiente em PHP
--📱 Atualmente estudando Flutter e Android com Kotlin  
+- 📱 Atualmente estudando Flutter e Android com Kotlin  
 
 
 ## 📊 Estatísticas do meu GitHub:
