@@ -1,19 +1,21 @@
-## Hi there 👋
+# Olá! 👋 Eu sou a Luizza
 
-<!--
-**wannaluiza0201/wannaluiza0201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora apaixonada por Front-End  
+🚀 Criando projetos inovadores e compartilhando conhecimento  
+🌎 Fique à vontade para explorar meus repositórios!
 
-Here are some ideas to get you started:
+## 📊 Estatísticas do meu GitHub:
+![Luizza's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannaluiza0201&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Luizza's GitHub stats](https://github-readme-stats.vercel.app/api?username=wannaluiza0201&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wannaluiza0201&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wannaluiza0201&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wannaluiza0201&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wannaluiza0201&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wannaluiza0201&theme=react-dark)
+
+---
+
+📫 **Me encontre por aqui:**  
+- ✉️ [Email](mailto:seuemail@gmail.com)  
+- 🐦 [Twitter](https://twitter.com/SEU_USUARIO)  
+- 🌐 [LinkedIn](https://linkedin.com/in/SEU_USUARIO)
